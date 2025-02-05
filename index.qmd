@@ -2,8 +2,8 @@
 format: revealjs
 ---
 
-## Pages {auto-animate="true"}
+## Pages
 
-``` {.yaml filename="dashboard-r.qmd" code-line-numbers="|10,18"}
+```` {.yaml filename="dashboard-r.qmd"}
 {{< include _pages.qmd >}}
-```
+````
