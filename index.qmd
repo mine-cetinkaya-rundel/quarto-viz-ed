@@ -4,6 +4,6 @@ format: revealjs
 
 ## Pages {auto-animate="true"}
 
-```` {.yaml filename="dashboard-r.qmd" code-line-numbers="|10,18"}
+``` {.yaml filename="dashboard-r.qmd" code-line-numbers="|10,18"}
 {{< include _pages.qmd >}}
-````
+```
