@@ -4,6 +4,6 @@ format: revealjs
 
 ## Pages
 
-```` {.yaml filename="dashboard-r.qmd"}
+``` {.yaml filename="dashboard-r.qmd"}
 {{< include _pages.qmd >}}
-````
+```
